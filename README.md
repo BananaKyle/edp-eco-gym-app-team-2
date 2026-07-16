@@ -57,5 +57,5 @@ In order to implement that vision, we followed the engineering design process to
 Team members' names and emails:
 * Michael Bennett - 
 * Kyle Stehura - 
-* Marco Di Loreto Tarot - 
+* Marco Di Loreto Tarot - marcodiloretotarot@gmail.com
 * Iyanna Richardson-Williams - nonnyrichwill@gmail.com
