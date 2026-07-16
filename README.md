@@ -49,7 +49,7 @@ In order to implement that vision, we followed the engineering design process to
 
 # References
 * Clean Energy Ministerial - *"Potential Global Benefits of Improved Ceiling Fan Energy Efficiency"*
-* *******(Is there any other sources I'm missing here?)*
+* *******(Is there any other sources I'm missing here?)* - * (sources are in the problem statement doc, also do we put it apa citation?)
 
 # Contact
 **********(Need y'all to add your emails)*
