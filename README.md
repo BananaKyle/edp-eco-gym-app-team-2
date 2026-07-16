@@ -6,7 +6,7 @@ Our app is designed to turn messy, confusing data into easy-to-understand graphs
 
 Our app functions consist of:
 
-* Selecting the fan of interest
+* Selecting the fan(s) of interest
 * Viewing a *simple* graph highlighting the metrics that are most important to you
 * Changing the theme of the app to best suit your viewing experience
 
