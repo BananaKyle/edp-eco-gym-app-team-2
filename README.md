@@ -15,8 +15,6 @@ Usability and digestibility are at the forefront of our goals. Our aim was to de
 
 In order to implement that vision, we followed the engineering design process to ensure we hit any and all crucial steps along the way, especially when reviewing feedback to alter our plan to best cater toward our client's needs.
 
-*******(Let me know if you guys think more needs to be added here)*
-
 
 # App Download/User Instructions
 **Step 1:** Download the app and it's supporting files:
@@ -48,11 +46,48 @@ In order to implement that vision, we followed the engineering design process to
 *******(Need to insert a video here of our app running smoothly.)*
 
 # References
-* Clean Energy Ministerial - *"Potential Global Benefits of Improved Ceiling Fan Energy Efficiency"*
-* *******(Is there any other sources I'm missing here?)* - * (sources are in the problem statement doc, also do we put it apa citation?)
+
+* **Source 1:** _Contains technological and economic assessment, energy-saving potential, and cost efficiency information_
+
+Potential global benefits of improved ceiling fan energy efficiency - Copenhagen Centre on Energy Efficiency. c2e2.unepccc.org. (n.d.). https://c2e2.unepccc.org/kms_object/potential-global-benefits-of-improved-ceiling-fan-energy-efficiency/  <<<<<(Source 1 PDF in team folder)
+
+* **Source 2:** _Industry Reference (Warning: could be seen as biased advertisement) Contains information and data on ceiling fan metrics for commercial gyms_
+
+Why gyms and fitness centers are switching to HVLS fans this summer | humongous fan. humongousfan.com. (n.d.). https://humongousfan.com/hvls-fans-gyms-fitness-centers-summer-switch/ 
+
+* **Source 3:** _Industry Reference (not very in-depth, possibly needs further evidence). Outlines the benefits of large commercial fans_
+
+Gym fans for powerful airflow and workout comfort — TBC Supply. tbcsupply.com. (n.d.). https://www.tbcsupply.com/blogs/news/gym-fan 
+
+* **Source 4:** _Industry Reference, discusses desirable features in ceiling fans_
+
+Ideal ventilation products for fitness facilities – Maxx Air. (n.d.). https://mymaxxair.com/pages/fitness
+
+* **Source 5:** _Explains how factors such as blade pitch, size, motor efficiency, and fan design affect airflow and energy efficiency_
+
+Ceiling Fan Performance: Components that Count. (2026). Energy STAR. https://www.energystar.gov/products/ceiling_fans/performance_components_count
+
+* **Source 6:** _Describes the best features of ceiling fans for air circulation for large spaces_
+
+Betancourt, J. (2025, July 17). Choosing the Best Ceiling Fan for Air Circulation. Fan Diego.
+https://fandiego.com/blogs/news/best-ceiling-fan-for-air-circulation 
+
+* **Source 7:** _Compares 3-blade vs 5-blade ceiling fans, how number of blades influences airflow and energy_
+
+(2025). Vindus Fans | Professional HVLS Fans Manufacturer. https://vindusfans.com/blogs/3-blade-vs-5-blade-ceiling-fans-which-blade-ceiling-fan-is-best/
+
+* **Source 8:** _Cost-efficiency_
+
+Ceiling fans vs AC: Do they actually save money? – Hunter Fan. (n.d.-a).
+https://www.hunterfan.com/blogs/hunter-blog/ceiling-fans-vs-ac-do-they-actually-save-money 
+
+* **Source 9:**
+
+Home Gym Comfort: The role of ventilation and HVAC in your workout space - your health magazine. (n.d.-b).
+https://yourhealthmagazine.net/article/weight-control-nutrition-exercise/home-gym-comfort-the-role-of-ventilation-and-hvac-in-your-workout-space/
+
 
 # Contact
-**********(Need y'all to add your emails)*
 
 Team members' names and emails:
 * Michael Bennett - michaeleaganbennett@gmail.com
