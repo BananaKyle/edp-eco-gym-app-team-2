@@ -1,4 +1,4 @@
-% data = load('fan_temperature.mat');
+% data = load('fan_air_velocity.mat');
 % vars = fieldnames(data);
 % s = data.(vars{1});
 % T = struct2table(s);
