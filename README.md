@@ -28,7 +28,7 @@ In order to implement that vision, we followed the engineering design process to
 
 **Step 4:** Open MATLAB and the data
 - Open MATLAB and click the project folder on the leftmost sidebar - the icon is a small bin
-- Click "Open Project". Find and double-click "edpapp.prj" to open the MATLAB project
+- Click "Open Project". If needed, open the folder that was extracted. Find and double-click "edpapp.prj" to open the MATLAB project
 - Once the project loads, double-click "app1.mlapp" found in the list of files on the left
 - Click the green "Run" button found in the top bar in App Designer
 
