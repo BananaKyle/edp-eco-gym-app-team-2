@@ -43,8 +43,9 @@ In order to implement that vision, we followed the engineering design process to
 - Select/Unselect which metrics, found on the right, that you'd like to be displayed on the graph
 - The graph updates automatically whenever a different fan design is selected
 
-# Result
-*******(Need to insert a video here of our app running smoothly.)*
+# App Demonstration
+Here is a link to a short video of our app in-use as a reference!
+Link to YouTube video --> ****_(Need to add a yt link here)_
 
 # References
 
