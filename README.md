@@ -27,10 +27,11 @@ In order to implement that vision, we followed the engineering design process to
 **Step 3:** Install MATLAB
 
 **Step 4:** Open MATLAB and the data
-- Open MATLAB and click the project folder on the leftmost sidebar - the icon is a small bin
-- Click "Open Project". If needed, open the folder that was extracted. Find and double-click "edpapp.prj" to open the MATLAB project
-- Once the project loads, double-click "app1.mlapp" found in the list of files on the left
+- Open MATLAB and an click "Open" in the top-left, or Ctrl+O, to open a file
+- Find and double-click the file named "edp-eco-gym-app-team-2-main", select all of the files within it and press "Open"
+- Wait for everything to load. A window will pop up called "App Designer"
 - Click the green "Run" button found in the top bar in App Designer
+- The app will pop up in a new window, now you can use it!
 
 **Step 5:** Select a Ceiling Fan Design
 - Customize your preferred background by using the "Theme" drop-down menu
@@ -38,20 +39,21 @@ In order to implement that vision, we followed the engineering design process to
 - Choose your location to analyze from the "Location" drop down menu
 - The application will automatically load the data and display it on the graph
 
-**Step 6: View the Graph**
+**Step 6:** View the Graph
 - After selecting a fan design, a graph displaying the fan's performance will appear
 - Select/Unselect which metrics, found on the right, that you'd like to be displayed on the graph
 - The graph updates automatically whenever a different fan design is selected
 
 # App Demonstration
 Here is a link to a short video of our app in-use as a reference!
-Link to YouTube video --> ****_(Need to add a yt link here)_
+
+Link to the YouTube video --> *****_(Need to add a yt link here)_
 
 # References
 
 * **Source 1:** _Contains technological and economic assessment, energy-saving potential, and cost efficiency information_
 
-Potential global benefits of improved ceiling fan energy efficiency - Copenhagen Centre on Energy Efficiency. c2e2.unepccc.org. (n.d.). https://c2e2.unepccc.org/kms_object/potential-global-benefits-of-improved-ceiling-fan-energy-efficiency/  <<<<<(Source 1 PDF in team folder)
+Potential global benefits of improved ceiling fan energy efficiency - Copenhagen Centre on Energy Efficiency. c2e2.unepccc.org. (n.d.). https://c2e2.unepccc.org/kms_object/potential-global-benefits-of-improved-ceiling-fan-energy-efficiency/
 
 * **Source 2:** _Industry Reference (Warning: could be seen as biased advertisement) Contains information and data on ceiling fan metrics for commercial gyms_
 
