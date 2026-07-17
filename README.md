@@ -35,6 +35,7 @@ In order to implement that vision, we followed the engineering design process to
 **Step 5:** Select a Ceiling Fan Design
 - Customize your preferred background by using the "Theme" drop-down menu
 - Choose your ceiling fan design to analyze from the "Fan" drop-down menu
+- Choose your location to analyze from the "Location" drop down menu
 - The application will automatically load the data and display it on the graph
 
 **Step 6: View the Graph**
