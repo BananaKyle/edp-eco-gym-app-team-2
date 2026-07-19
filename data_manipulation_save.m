@@ -1,7 +1,8 @@
-% data = load('fan_air_velocity.mat');
-% vars = fieldnames(data);
-% s = data.(vars{1});
-% T = struct2table(s);
+data = load('fan_design_metadata.mat');
+vars = fieldnames(data);
+s = data.(vars{1});
+fan_design_metadata = struct2table(s);
+save('fan_design_metadata_table.mat', 'fan_design_metadata')
 % F01_temperature_table = T(1:12705, {'test_id', 'fan_id', 'location_id', 'time_sec', 'time_min', 'time_of_day_hours', 'temperature_C'});
 % save('F01_temperature.mat', "F01_temperature_table");
 % F02_temperature_table = T(12706:25410, {'test_id', 'fan_id', 'location_id', 'time_sec', 'time_min', 'time_of_day_hours', 'temperature_C'});
