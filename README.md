@@ -1,8 +1,8 @@
 # Eco-Gym Fan Efficiency Comparison App -- Challenge 6
 
-Our client needs to decide which fan is best for specific areas of their eco-gym amongst a list of 8 different fans. The gym-goers are affected by the fan of choice because it will dictate the air flow and overall temperature in the area and it effects the gym manager because an inefficent fan will raise electricity costs. If the fan does not circulate air effectively and aid in decreasing the temperature, the gym members will be uncomfortable while exercising and may not want to return. Our MATLAB app will tackle the aspect of ambiguity when deciding which fan is best for the gym members. Our app will make it easier and quicker to make an informed decision that will best sustain the gym members’ comfort during workouts.
+Our client needs to decide which fan is best for specific areas of their eco-gym amongst a list of 8 different fans. The gym-goers are affected by the fan of choice because it will dictate the air flow and overall temperature in the area and it affects the gym manager because an inefficient fan will raise electricity costs. If the fan does not circulate air effectively and aid in decreasing the temperature, the gym members will be uncomfortable while exercising and may not want to return. Our MATLAB app will tackle the aspect of ambiguity when deciding which fan is best for the gym members. Our app will make it easier and quicker to make an informed decision that will best sustain the gym members’ comfort during workouts while still remaining eco-friendly.
 
-Our app is designed to turn messy, confusing data into easy-to-understand graphs that help you best decide which fan provides the best air circulation for your eco-gym while also being energy-efficient so your decision is painless and so is your electricity bill.
+Our app is designed to turn messy, confusing data into easy-to-understand graphs that help you best decide which fan provides the best air circulation for your eco-gym while also being energy-efficient. This will help your decision be painless and your electricity bill stay within reasonable means.
 
 Our app functions consist of:
 
@@ -17,8 +17,7 @@ In order to implement that vision, we followed the engineering design process to
 
 
 # App Download/User Instructions
-**Step 1:** Download the app and it's supporting files:
-- Download the project folder from GitHub. 
+**Step 1:** Download the app and its supporting files:
 - Go to the green code button and click Download ZIP
 
 **Step 2:** Extract the files (if necessary):
@@ -27,22 +26,22 @@ In order to implement that vision, we followed the engineering design process to
 **Step 3:** Install MATLAB
 
 **Step 4:** Open MATLAB and the data
-- Open MATLAB and an click "Open" in the top-left, or Ctrl+O, to open a file
-- Find and double-click the file named "edp-eco-gym-app-team-2-main", select all of the files within it and press "Open"
-- Wait for everything to load. A window will pop up called "App Designer"
-- Click the green "Run" button found in the top bar in App Designer
+- Open MATLAB and click "Open" in the top-left, or Ctrl+O, to open a file
+- Find the file named "edp-eco-gym-app-team-2-main"
+- Once the project loads, double-click "app1.mlapp" found in the “App Package” folder in the files on the left
+- A new window will open called "App Designer". Click the green "Run" button found in the top bar
 - The app will pop up in a new window, now you can use it!
 
-**Step 5:** Select a Ceiling Fan Design
-- Customize your preferred background by using the "Theme" drop-down menu
-- Choose your ceiling fan design to analyze from the "Fan" drop-down menu
-- Choose your location to analyze from the "Location" drop down menu
-- The application will automatically load the data and display it on the graph
-
-**Step 6:** View the Graph
+**Step 5:** Using the App
+- Choose which ceiling fan designs(s) to analyze using the "Fan" drop-down menu
 - After selecting a fan design, a graph displaying the fan's performance will appear
-- Select/Unselect which metrics, found on the right, that you'd like to be displayed on the graph
-- The graph updates automatically whenever a different fan design is selected
+- Choose your location to analyze using the "Location" drop-down menu
+- Switch between which metrics, found in the "Data" dropdown menu, that you'd like to be displayed on the graph
+- Choose the fan speed using the "Test" drop-down menu
+- The application will automatically load the data and display it on the graph. The graph updates automatically whenever a different fan design or metric is selected
+- Use the "Hold" button to display different fans/metrics simultaneously!
+- The design details for the selected fan and it's efficiency is displayed at the bottom
+- Customize your preferred background by using the "Theme" drop-down menu
 
 # App Demonstration
 Here is a link to a short video of our app in-use as a reference!
