@@ -18,12 +18,12 @@ In order to implement that vision, we followed the engineering design process to
 
 # App Download/User Instructions
 **Step 1:** Download the app and its supporting files:
-- Go to the green code button and click Download ZIP
+- Go to the green code button and click "Download ZIP"
 
 **Step 2:** Extract the files (if necessary):
 - If the project is downloaded as a ZIP file, right-click the file and select "Extract All".
 
-**Step 3:** Install MATLAB
+**Step 3:** Install MATLAB on your computer
 
 **Step 4:** Open MATLAB and the data
 - Open MATLAB and click "Open" in the top-left, or Ctrl+O, to open a file
