@@ -46,7 +46,7 @@ In order to implement that vision, we followed the engineering design process to
 # App Demonstration
 Here is a link to a short video of our app in-use as a reference!
 
-Link to the YouTube video --> *****_(Need to add a yt link here)_
+Link to the YouTube video --> https://youtube.com/shorts/Y0SG7NMA07I?si=5LiBOQfeITjkyAXS
 
 # References
 
